@@ -17,7 +17,7 @@ public interface CarPlugin {
 }
 ```
 
-## "CarPlugin" Interface Implementation
+## "CarPlugin" Interface Implementation test
 
 ```java
 public class HybridCar implements CarPlugin {
